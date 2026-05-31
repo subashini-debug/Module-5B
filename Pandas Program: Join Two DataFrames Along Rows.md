@@ -40,4 +40,5 @@ print(result_data)
 ## Output
 <img width="749" height="513" alt="image" src="https://github.com/user-attachments/assets/db512bb2-63d5-4211-b1cc-2d74fd58cb00" />
 
-## ResulThus, the Python program has been successfully created and executed successfully to join the two DataFrames row-wise using pd.concat() and all records from both DataFrames were included in the final output.
+## Result
+Thus, the Python program has been successfully created and executed successfully to join the two DataFrames row-wise using pd.concat() and all records from both DataFrames were included in the final output.
